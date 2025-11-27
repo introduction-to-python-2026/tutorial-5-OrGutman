@@ -1,3 +1,4 @@
+from example import text, sleep
 from matplotlib import pyplot as plt
 
 def build_histogram(data):
